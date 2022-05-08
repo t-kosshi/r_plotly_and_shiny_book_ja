@@ -22,7 +22,7 @@ remotes::install_github("cpsievert/plotly_book")
 
 本サポートサイトでは、少しずつ本書を読み進めることをサポートするために、各章ごと個別に必要なパッケージをインストールするコードを公開しています。
 
-なお、より手軽に実行環境を整える方法として、専用のクラウド環境を用意しています。(http://bit.ly/plotly-book-cloud)[http://bit.ly/plotly-book-cloud]から、必要なパッケージがインストールされたRstudio Cloud上の実行環境にアクセスできます。（Rstudio Cloudのアカウントが必要です。）
+なお、より手軽に実行環境を整える方法として、専用のクラウド環境を用意しています。[http://bit.ly/plotly-book-cloud](http://bit.ly/plotly-book-cloud)から、必要なパッケージがインストールされたRstudio Cloud上の実行環境にアクセスできます。（Rstudio Cloudのアカウントが必要です。）
 
 
 ### コードの実行に必要な外部ファイル
